@@ -1,2 +1,2 @@
 # References-Repository
-Repositório de Referências
+Repositório dedicado a guardar referências.
