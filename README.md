@@ -15,13 +15,3 @@ This repository provides supplementary material, bibliographic records, and the 
 Conducted in accordance with the **PRISMA 2020 (Preferred Reporting Items for Systematic Reviews and Meta-Analyses)** statement, this review systematically synthesizes machine learning (ML) and deep learning (DL) algorithms used to predict colorectal cancer (CRC) clinical outcomes (overall survival, recurrence, and mortality) based strictly on structured, tabular clinical data.
 
 ---
-
-## 📁 Repository Structure
-
-All materials are maintained directly in the root directory for straightforward access:
-
-```text
-.
-├── README.md                                  # Repository documentation and study synthesis
-├── Summary of Included Primary Studies.xlsx   # Spreadsheet containing extracted study details
-└── references.bib                             # BibTeX entries for all included primary studies
